@@ -32,3 +32,15 @@ for attempt in range(3):
         print("Більше")
 else:
     print(f"Ви програли! Загадане число: {number}")
+
+
+
+#4
+
+start = int(input("Введіть число з: "))
+end = int(input("Введіть число по: "))
+
+for number in range(start, end + 1):
+    print(number, end=" ")
+
+
