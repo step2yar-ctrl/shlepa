@@ -58,3 +58,14 @@ for number in range(n, 0, -1):
 #6
 
 
+n = int(input("Введіть число: "))
+
+factorial = 1
+
+for i in range(1, n + 1):
+    factorial *= i
+
+print(f"Факторіал числа {n} = {factorial}")
+
+
+
