@@ -69,3 +69,24 @@ print(f"Факторіал числа {n} = {factorial}")
 
 
 
+#7
+
+
+
+
+points = int(input("Введіть кількість балів: "))
+
+if points <= 49:
+    print("Незадовільно")
+elif points <= 69:
+    print("Задовільно")
+elif points <= 89:
+    print("Добре")
+elif points <= 100:
+    print("Відмінно")
+else:
+    print("Некоректна кількість балів")
+
+
+
+
