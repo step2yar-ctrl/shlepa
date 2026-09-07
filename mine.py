@@ -46,8 +46,15 @@ for number in range(start, end + 1):
 
 #5
 
-start = int(input("Введіть число з: "))
-end = int(input("Введіть число по: "))
+n = int(input("Введіть n: "))
 
-for number in range(start, end + 1):
-    print(number, end=" ")
+for number in range(n, 0, -1):
+    if number % 2 == 0:
+        print(number, end=" ")
+
+
+
+
+#6
+
+
