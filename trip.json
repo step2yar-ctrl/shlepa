@@ -1,0 +1,10 @@
+{
+    "destination": "Lviv",
+    "days": 5,
+    "transport": "train",
+    "hotel": {
+        "name": "Central Hotel",
+        "room": "double",
+        "breakfast": true
+    }
+}

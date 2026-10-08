@@ -1,0 +1,10 @@
+{
+    "brand": "Lenovo",
+    "model": "IdeaPad",
+    "price": 28000,
+    "specifications": {
+        "processor": "Intel Core i5",
+        "ram": 16,
+        "storage": 512
+    }
+}

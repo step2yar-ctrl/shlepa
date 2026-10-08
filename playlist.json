@@ -1,0 +1,21 @@
+{
+    "name": "My Playlist",
+    "creator": "Alex",
+    "songs": [
+        {
+            "title": "Song One",
+            "artist": "Artist A",
+            "duration": 210
+        },
+        {
+            "title": "Song Two",
+            "artist": "Artist B",
+            "duration": 185
+        },
+        {
+            "title": "Song Three",
+            "artist": "Artist C",
+            "duration": 240
+        }
+    ]
+}
